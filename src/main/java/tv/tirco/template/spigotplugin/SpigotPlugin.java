@@ -1,4 +1,4 @@
-package me.sgray.template.spigotplugin;
+package tv.tirco.template.spigotplugin;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

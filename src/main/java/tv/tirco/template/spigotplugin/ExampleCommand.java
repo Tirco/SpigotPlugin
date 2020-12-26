@@ -1,4 +1,4 @@
-package me.sgray.template.spigotplugin;
+package tv.tirco.template.spigotplugin;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
